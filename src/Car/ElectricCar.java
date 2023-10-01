@@ -1,5 +1,7 @@
+package Car;
 
-public class ElectricCar extends CAR {
+
+public class ElectricCar extends Car {
 
 	private int battery_size; 
 	public int getBattery_size() {
